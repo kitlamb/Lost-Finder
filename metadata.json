@@ -1,0 +1,5 @@
+{
+  "name": "Lost Finder",
+  "description": "Lost Finder is an exploratory research tool that unearths neglected or “ghost” documents in digital archives like Internet Archive and HathiTrust. It reveals materials hidden by bad metadata, low visibility, or OCR noise — helping digital humanists rediscover forgotten parts of the digital record.",
+  "requestFramePermissions": []
+}
